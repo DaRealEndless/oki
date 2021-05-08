@@ -1,0 +1,17 @@
+body{
+    background-color: orange;
+}
+
+.objects{
+    color: darkslategray;
+}
+#Camera{
+    border:2.5px solid silver ;
+    width: 350px;
+    height: 300px;
+}
+#title{
+    background-color: orangered;
+    font-size: xx-large;
+    width:80%;
+}
